@@ -1,2 +1,2 @@
 # github-demo
-this is 1st practice repo
+this is the 1st practice repo
